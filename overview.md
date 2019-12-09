@@ -1,11 +1,11 @@
-## Overview
+## Overview 
 ---
-Today I am making the overview while also organizing my information in terms of AR & VR. I'm on step 5 and 6 of creating a prototype and testing/evaluating the prototype.
---
-I learned Markdown and a bit of HTML which will be use in my blog for affects such as links, images, and visuals that emphasize my writing. The synthesis practice will also help me organize certain parts into a breakdown of what I need to add to my text.
---
-I used sources of HSTAT's SEP class instruction, a markdown cheat sheet, and outside information like codecademy and youtube. 
---
-During my time writing, I used multiple skills such as collaboration, communication, problem decomposition and debugging. While figuring out my errors, I've also learned how to filter and manage what sources are reliable as well as accurate in detail. 
+*Context*
+The “Freedom Project” for SEP10 is all about learning about a topic and creating a website for a target audience using github and advanced/basic web design. We should also use topics based on technology and the LOYO tool.
 
+The purpose of this blog is to entertain mostly teens and those in the tech industry about the new uprising of hyppereality in terms of AR and VR. This may be our future, and new innovations are being used for entertainment or education purposes.
+---
+*Content*
+For my project, I am making a website about Hyperreality of AR & VR using Github, HTML, CSS, and(tbd)
 
+This blog will document the process of independently studying Hyperreality with the subtopics of AR, VR, and the impact on political, social & economic aspect while making the website.
