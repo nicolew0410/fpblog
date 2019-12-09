@@ -1,4 +1,4 @@
-## Overview
+## Blog Entry
 ---
 Today I am making the overview while also organizing my information in terms of AR & VR. I'm on step 5 and 6 of creating a prototype and testing/evaluating the prototype.
 --
